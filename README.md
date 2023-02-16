@@ -1,5 +1,5 @@
-## Hi! My name is Guilherme and i like to make some code.
-
+## Hello World
+- My name is Guilherme and i'm doing a major degree in Computer Science.
 - Actually i'm studying JavaScript/Python/Ruby/TypeScript and CyberSecurity tools.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=radical)
