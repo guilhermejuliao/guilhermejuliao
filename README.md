@@ -2,7 +2,7 @@
 - My name is Guilherme and i'm doing a major degree in Computer Science.
 - Actually i'm studying JavaScript/Python/Ruby/TypeScript and CyberSecurity tools.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejuliao&theme=radical&hide_progress=true)
  
  <div style="display: inline_block"><br>
