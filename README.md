@@ -1,4 +1,4 @@
-## Hi! My name is Guilherme and i am a Computer Science major at PUC-RIO.
+## Hi! My name is Guilherme and i love to make some code.
 
 - Actually i'm studying JavaScript/Python/Ruby/TypeScript and CyberSecurity tools.
 
