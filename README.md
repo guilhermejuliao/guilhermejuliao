@@ -13,7 +13,8 @@
  <img align="center" alt="Gui-Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
  </div>
   
- 
-        
-                       
+ <div>
+ <a ref="https://www.linkedin.com/in/guilhermejuliao/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </div>
           
+       
