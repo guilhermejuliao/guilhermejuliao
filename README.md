@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a computer science student who loves to make some code!
+- 👋 Hi, I’m a Computer Science student who loves to make some code!
 - 👀 I’m interested in JavaScript/Python/Ruby/TypeScript and CyberSecurity.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=radical)
