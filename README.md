@@ -1,7 +1,6 @@
-### print("Hello World")
+## Hi! My name is Guilherme and i study Computer Science at PUC-RIO.
 
-- 👋 Hi, I’m a Computer Science student who loves to make some code!
-- 👀 I’m interested in JavaScript/Python/Ruby/TypeScript and CyberSecurity.
+- Actually i'm studying JavaScript/Python/Ruby/TypeScript and CyberSecurity tools.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejuliao&theme=radical&hide_progress=true)
