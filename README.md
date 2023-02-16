@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning JavaScript/CSS/HTML5
 
 <a href="https://app.daily.dev/guilhermejuliao"><img src="https://api.daily.dev/devcards/9266b86dd9594470993a36d1ba66e9b2.png?r=gxf" width="400" alt="Guilherme Souza's Dev Card"/></a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao)](https://github.com/anuraghazra/github-readme-stats)
