@@ -11,7 +11,9 @@
  <img align="center" alt="Gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">-
  <img align="center" alt="Gui-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">-
  <img align="center" alt="Gui-Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-          
+ </div>
+  
+ 
         
                        
           
