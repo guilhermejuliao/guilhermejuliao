@@ -1,4 +1,4 @@
-## Hi! My name is Guilherme and i love to make some code.
+## Hi! My name is Guilherme and i like to make some code.
 
 - Actually i'm studying JavaScript/Python/Ruby/TypeScript and CyberSecurity tools.
 
