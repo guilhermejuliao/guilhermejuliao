@@ -2,4 +2,4 @@
 - 👀 I’m interested in JavaScript/Python/Ruby and CyberSecurity.
 - 🌱 I’m currently learning JavaScript/CSS/HTML5
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=transparent))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=radical))
