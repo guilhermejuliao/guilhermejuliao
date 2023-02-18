@@ -1,4 +1,4 @@
-## Hello World
+## Hello World!
 - My name is Guilherme and i'm doing a major degree in Computer Science.
 - Actually i'm studying JavaScript/Python/Ruby/TypeScript and CyberSecurity tools.
 
