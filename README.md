@@ -2,8 +2,6 @@
 - My name is Guilherme and i'm doing a major degree in Computer Science.
 - Actually i'm studying JavaScript/TypeScript/Python/Java and CyberSecurity tools.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejuliao&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejuliao&theme=highcontrast&hide_progress=true)
  
  <div style="display: inline_block"><br>
  <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
